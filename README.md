@@ -1,2 +1,2 @@
 # React-UserlList
-React, + Typescript
+React + Typescript
